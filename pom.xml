@@ -10,7 +10,7 @@
 
 
 	<groupId>com.jiujie</groupId>
-	<artifactId>Code-Hidding-Plugin</artifactId>
+	<artifactId>code-hidding-plugin</artifactId>
 	<name>code-hidding-plugin</name>
 	<version>1.0</version>
 	<packaging>maven-plugin</packaging>
@@ -54,7 +54,7 @@
 		<dependency>
 			<groupId>net.sf.proguard</groupId>
 			<artifactId>proguard-base</artifactId>
-			<version>5.2</version>
+			<version>5.3</version>
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
